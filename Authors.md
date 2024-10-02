@@ -5,3 +5,4 @@ Team leader: Shariff Shayan Ahmed
 
 * Junion1: Pierre Thiebaut
 * Junior2: Prenom Nom...
+* Junior3: Emma Justine
