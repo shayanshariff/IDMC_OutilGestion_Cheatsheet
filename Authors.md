@@ -3,5 +3,5 @@
 ## Team Name 1
 Team leader: ...
 
-* Junion1: Prenom Nom
+* Junion1: Pierre Thiebaut
 * Junior2: Prenom Nom...
